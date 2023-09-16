@@ -2,7 +2,8 @@
   <head>
     <style>
       body{
-        background-image:url(https://gcdnb.pbrd.co/images/vKHLFqDBQKE1.gif?o=1)
+        background-image: url(https://gcdnb.pbrd.co/images/vKHLFqDBQKE1.gif?o=1) 
+        backround-repeat: no-repeat;
       }
     </style>
     
@@ -11,4 +12,3 @@
     
   </body>
 </html>
-        
